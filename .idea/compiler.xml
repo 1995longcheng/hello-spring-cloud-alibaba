@@ -23,13 +23,17 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="hello-spring-cloud-alibaba-nacos-consumer" />
+        <module name="hello-spring-cloud-alibaba-nacos-consumer-feign" />
         <module name="hello-spring-cloud-alibaba-nacos-provider" />
+        <module name="hello-spring-cloud-gateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.7">
       <module name="hello-spring-cloud-alibaba-dependencies" target="1.8" />
       <module name="hello-spring-cloud-alibaba-nacos-consumer" target="1.8" />
+      <module name="hello-spring-cloud-alibaba-nacos-consumer-feign" target="1.8" />
       <module name="hello-spring-cloud-alibaba-nacos-provider" target="1.8" />
+      <module name="hello-spring-cloud-gateway" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
