@@ -10,10 +10,10 @@
         <relativePath>../hello-spring-cloud-alibaba-dependencies/pom.xml</relativePath>
     </parent>
 
-    <artifactId>hello-spring-cloud-gateway</artifactId>
+    <artifactId>hello-spring-alibaba-cloud-gateway</artifactId>
     <packaging>jar</packaging>
 
-    <name>hello-spring-cloud-gateway</name>
+    <name>hello-spring-alibaba-cloud-gateway</name>
     <url>http://www.funtl.com</url>
     <inceptionYear>2018-Now</inceptionYear>
 

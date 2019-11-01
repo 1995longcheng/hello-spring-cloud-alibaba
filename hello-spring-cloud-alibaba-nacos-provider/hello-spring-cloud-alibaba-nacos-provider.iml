@@ -119,5 +119,7 @@
     <orderEntry type="library" scope="RUNTIME" name="Maven: com.sun.jersey.contribs:jersey-apache-client4:1.19.1" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: com.netflix.netflix-commons:netflix-commons-util:0.3.0" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: com.netflix.netflix-commons:netflix-statistics:0.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter-alibaba-nacos-config:0.2.1.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-alibaba-nacos-config:0.2.1.RELEASE" level="project" />
   </component>
 </module>
